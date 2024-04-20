@@ -1,8 +1,8 @@
 # Project_SQL
 porovnání dostupnosti potravin na základě průměrných příjmů
 
-##
-Popis projektu
+
+## Popis projektu
 
 Tento SQL projekt jsem vypracovala jako svoji absolventskou práci v rámci studia Datové akademie u Engeto.
 
