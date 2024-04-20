@@ -16,6 +16,7 @@ Dále jsem připravila sadu SQL dotazů (Task 1 - 5), které zodpovídají otáz
 SQL dotazy jsou zpracovány v databázi MariaDB.
 
 
+
 *Autor:Tereza Kalátová*
 *email: kalatovatereza@gmail.com*
 *uživatelské jméno na Discord: kalatovatereza*
