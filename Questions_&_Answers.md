@@ -25,7 +25,7 @@ V roce 2018 došlo ke zlepšení kupní síly průměrné přepočtené mzdy, a 
 
 A: Ve sledovaném období 2006 až 2018 nejpomaleji zdražily "Banány žluté" - o 7,4 %. 
 
-Dvě položky - "Cukr krystalový" a Rajská jablka červená kulatá" v tomto období dokonce zlevnily (cukr o 27,5 % a rajčata o 23,1 %).
+Dvě položky - "Cukr krystalový" a Rajská jablka červená kulatá" - v tomto období dokonce zlevnily (cukr o 27,5 % a rajčata o 23,1 %).
 Pozn. Položka "Jakostní víno bílé" nelze plně srovnávat, jelikož jsou pro ni data dostupná pouze za období 2015-2018.
 
 
